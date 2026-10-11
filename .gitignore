@@ -1,0 +1,9 @@
+.venv/
+.tools/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+models/
+_archive/
